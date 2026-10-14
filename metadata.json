@@ -1,0 +1,6 @@
+{
+  "name": "TroPro - Quản lý phòng trọ",
+  "description": "Hệ thống quản lý và vận hành phòng trọ, căn hộ dịch vụ và ký túc xá thông minh TroPro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
